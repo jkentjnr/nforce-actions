@@ -1,0 +1,36 @@
+{
+  "name": "nforce-actions",
+  "version": "1.0.0",
+  "description": "An nforce plugin that facilitates working with actions",
+  "main": "index.js",
+  "scripts": { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkentjnr/nforce-actions.git"
+  },
+  "keywords": [
+    "nforce",
+    "nforce-plugin",
+    "actions",
+    "flow",
+    "api",
+    "salesforce",
+    "force.com",
+    "forcedotcom"
+  ],
+  "author": "James Kent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkentjnr/nforce-actions/issues"
+  },
+  "homepage": "https://github.com/jkentjnr/nforce-actions",
+  "peerDependencies": {
+    "nforce": "^1.5.0"
+  },
+  "devDependencies": {
+    "nforce": "^1.5.0"
+  },
+  "dependencies": {
+  }
+}
